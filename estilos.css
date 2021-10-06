@@ -1,0 +1,98 @@
+
+#logo{
+    height: 50px;
+}
+#img1{
+    background-image: url(https://pablomandile.com.ar/webdev/capacitacion/codoacodo/04JS_AO/img/ba1.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    filter: brightness(0.5);
+}
+#img2{
+    background-image: url(https://pablomandile.com.ar/webdev/capacitacion/codoacodo/04JS_AO/img/ba2.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    filter: brightness(0.5);
+}
+#img3{
+    background-image: url(https://pablomandile.com.ar/webdev/capacitacion/codoacodo/04JS_AO/img/ba3.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    filter: brightness(0.5);
+}
+#honopic{
+    background-image: url(https://pablomandile.com.ar/webdev/capacitacion/codoacodo/04JS_AO/img/honolulu.jpg);
+    background-size: cover;
+    min-height: 80vh;
+}
+#foot{
+    background: linear-gradient(
+90deg, rgb(9, 39, 53), rgb(24, 108, 156));
+    min-height: 80px;
+    margin-top: 3em !important;
+}
+#foot a{
+    color: white !important;
+}
+#sect1{
+    margin:3em 0px;
+}
+#formorador{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 40%;
+}
+#cajatexto{
+    background-color: rgb(63, 61, 61);;
+}
+#titulo1{
+    text-align: center;
+    padding: 3em 0px 1em 0px;
+}
+#subrayado{
+    text-decoration: underline dotted !important;
+}
+
+.card.medio{
+    padding: 0px 3em;
+}
+
+nav{
+    background-color: rgb(63, 61, 61);
+    padding:0px 100px;  
+}
+.navbar-brand{
+    color:white !important;
+}
+.nav-link.active{
+    color:white !important;
+}
+.top{
+    color:gray!important;
+}
+.mid{
+    color: white;
+}
+.nav-link.compra{
+    color:rgb(39, 185, 39) !important;
+}
+.llamadaAccion{
+    position:absolute;
+    top:50%;
+    left:62%;
+    color:white;
+    margin-right: 10%;
+    text-align: right;
+}
+form{
+    margin:0px 10%;
+}
+#bt-submit{
+    width: 100%;
+    background-color: rgb(36, 173, 66);
+}
